@@ -1,0 +1,5 @@
+{
+  "pairsEndpoint": "https://jkylrpymob.execute-api.us-west-2.amazonaws.com/prod/api/currency/configuration",
+  "ratesEndpoint": "https://jkylrpymob.execute-api.us-west-2.amazonaws.com/prod/api/currency/rates",
+  "interval": 10000
+}
